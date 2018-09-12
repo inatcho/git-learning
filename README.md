@@ -2,4 +2,4 @@
 
 My name is inatcho
 
-Modified on local branch1
+Modified on remote branch1
